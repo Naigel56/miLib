@@ -1,0 +1,24 @@
+{
+    "name": "milib",
+    "version": "0.0.1",
+    "description": "JavaScript utility library to manage and manipulate time series",
+    "main": "dist/milib.js",
+    "module": "dist/milib.es.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Naigel56/miLib.git"
+    },
+    "author": "Lorenzo Cavazzi - techgardenit@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Naigel56/miLib/issues"
+    },
+    "homepage": "https://github.com/Naigel56/miLib#readme",
+    "devDependencies": {
+        "eslint": "^5.5.0",
+        "jest": "^23.5.0"
+    }
+}
